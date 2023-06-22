@@ -3,7 +3,7 @@ predicting various agricultural crop images of Wheat,Rice(Paddy),Sugarcane,Jute,
 
 Context :
 
-Dataset (Crop Images) contain 40+ images of each agriculture crop(Maize,Wheat,Jute,Rice and SugarCane) 
+Dataset (Crop Images) contain 40+ images of each agriculture crop(Maize,Wheat,Jute,Rice and SugarCane) ss
 Dataset(kag2) contains 150+ augementd images of C rop Images of each class.
 Augementation contains Horizontal flip,rotation,horizontal shift,vertical shift.
 
